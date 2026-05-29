@@ -19,7 +19,8 @@ Veja online: [Netlify Deploy](https://luminous-beignet-7644da.netlify.app)
 ## Captura de tela
 <img width="1919" height="872" alt="image" src="https://github.com/user-attachments/assets/492d6052-181a-4abe-a20b-3f84515b9056" />
 <img width="1919" height="869" alt="image" src="https://github.com/user-attachments/assets/8b7f1d78-0299-498b-a125-394e78350995" />
-<img width="1919" height="864" alt="image" src="https://github.com/user-attachments/assets/6a86b4cf-427c-4eef-afed-53761c283db9" />
+<img width="1915" height="877" alt="image" src="https://github.com/user-attachments/assets/9501bd33-a6e1-41b2-bcc1-33b3e58f552e" />
+
 
 ## 📌 Funcionalidades
 -Traduz textos digitados pelo usuário
