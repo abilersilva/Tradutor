@@ -26,6 +26,4 @@ Veja online: [Netlify Deploy](https://luminous-beignet-7644da.netlify.app)
 -Seleção de idioma de origem e destino
 -Exibição do resultado na tela
 
----
-
 Se quiser, posso te mandar também os **badges prontos** (licença, linguagem principal, status) para colar logo no início e deixar o README ainda mais moderno. Quer que eu prepare essa versão com badges?
